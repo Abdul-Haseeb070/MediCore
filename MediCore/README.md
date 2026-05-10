@@ -15,7 +15,7 @@ brew install cmake sfml
 
 ## Build and Run on macOS
 ```bash
-git clone [YOUR GITHUB LINK HERE]
+git clone https://github.com/Abdul-Haseeb070/MediCore.git
 cd MediCore
 mkdir build && cd build
 cmake ..
@@ -54,6 +54,3 @@ HospitalException
 |- InvalidInputException
 `- SlotUnavailableException
 ```
-
-## GitHub Repository
-[YOUR GITHUB LINK HERE]
