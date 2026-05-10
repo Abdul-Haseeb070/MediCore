@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/main.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/main.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/main.cpp",
+  "output": "CMakeFiles/MediCore.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/core/Admin.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/core/Admin.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/core/Admin.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/core/Admin.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/core/Appointment.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/core/Appointment.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/core/Appointment.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/core/Appointment.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/core/Bill.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/core/Bill.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/core/Bill.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/core/Bill.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/core/Doctor.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/core/Doctor.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/core/Doctor.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/core/Doctor.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/core/FileHandler.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/core/FileHandler.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/core/FileHandler.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/core/FileHandler.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/core/Patient.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/core/Patient.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/core/Patient.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/core/Patient.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/core/Person.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/core/Person.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/core/Person.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/core/Person.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/core/Prescription.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/core/Prescription.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/core/Prescription.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/core/Prescription.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/core/Validator.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/core/Validator.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/core/Validator.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/core/Validator.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/exceptions/FileNotFoundException.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/exceptions/FileNotFoundException.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/exceptions/FileNotFoundException.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/exceptions/FileNotFoundException.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/exceptions/HospitalException.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/exceptions/HospitalException.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/exceptions/HospitalException.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/exceptions/HospitalException.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/exceptions/InsufficientFundsException.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/exceptions/InsufficientFundsException.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/exceptions/InsufficientFundsException.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/exceptions/InsufficientFundsException.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/exceptions/InvalidInputException.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/exceptions/InvalidInputException.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/exceptions/InvalidInputException.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/exceptions/InvalidInputException.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/exceptions/SlotUnavailableException.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/exceptions/SlotUnavailableException.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/exceptions/SlotUnavailableException.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/exceptions/SlotUnavailableException.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/ui/AdminMenu.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/ui/AdminMenu.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/ui/AdminMenu.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/ui/AdminMenu.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/ui/DoctorMenu.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/ui/DoctorMenu.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/ui/DoctorMenu.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/ui/DoctorMenu.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/ui/GUI.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/ui/GUI.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/ui/GUI.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/ui/GUI.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/ui/LoginScreen.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/ui/LoginScreen.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/ui/LoginScreen.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/ui/LoginScreen.cpp.o"
+},
+{
+  "directory": "/Users/abdulhaseeb/Desktop/MediCore/build",
+  "command": "/usr/bin/clang++  -I/Users/abdulhaseeb/Desktop/MediCore/src -I/Users/abdulhaseeb/Desktop/MediCore/src/utils -I/Users/abdulhaseeb/Desktop/MediCore/src/exceptions -I/Users/abdulhaseeb/Desktop/MediCore/src/core -I/Users/abdulhaseeb/Desktop/MediCore/src/ui -isystem /opt/homebrew/include -g -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/MediCore.dir/src/ui/PatientMenu.cpp.o -c /Users/abdulhaseeb/Desktop/MediCore/src/ui/PatientMenu.cpp",
+  "file": "/Users/abdulhaseeb/Desktop/MediCore/src/ui/PatientMenu.cpp",
+  "output": "CMakeFiles/MediCore.dir/src/ui/PatientMenu.cpp.o"
+}
+]
