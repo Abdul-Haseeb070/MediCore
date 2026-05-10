@@ -1,0 +1,3 @@
+/Users/abdulhaseeb/Desktop/MediCore/build/CMakeFiles/MediCore.dir
+/Users/abdulhaseeb/Desktop/MediCore/build/CMakeFiles/edit_cache.dir
+/Users/abdulhaseeb/Desktop/MediCore/build/CMakeFiles/rebuild_cache.dir
